@@ -1,7 +1,7 @@
 # Rafael Abreu de Carvalho
 ## Hi There!
 - 📙 3º Período de Ciência da Computação na Cesar School
-- 🎮 ⚽ 🎧 👨‍💻
+
 
 <div align="center">
   <a href="https://github.com/RafaCarvalh0">
